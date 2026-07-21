@@ -1,3 +1,5 @@
+--°Listar os produtos cuja cor termina com "BLACK", exibindo o nome do produto, a marca, a cor e o preço unitário.
+
 USE ContosoRetailDW
 SELECT
      ProductName,
