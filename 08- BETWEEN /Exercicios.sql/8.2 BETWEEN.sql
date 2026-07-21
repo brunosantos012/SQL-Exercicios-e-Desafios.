@@ -1,3 +1,5 @@
+--°Listar os produtos com preço unitário entre 1.000 e 2.500, exibindo o nome do produto, a marca e o preço, organizados do maior para o menor valor.
+
 USE ContosoRetailDW
 
 SELECT 
