@@ -1,2 +1,5 @@
-Neste modulo de SELECT foi bastante animador para mim, ainda é o basico no SQL mas gostei bastante.
-Aprendi a selecionar a tabela para trablhar e selecionar as colunas para fazer filtragens mais especificas.
+Neste módulo de **SELECT**, tive uma experiência bastante animadora. Ainda estou aprendendo o básico de SQL, mas estou gostando muito da jornada.
+
+Aprendi a selecionar as tabelas com as quais vou trabalhar, escolher as colunas e realizar filtragens mais específicas para obter exatamente as informações que preciso.
+
+O módulo também conta com exercícios práticos e um desafio, que ajudam bastante a fixar o conteúdo.
