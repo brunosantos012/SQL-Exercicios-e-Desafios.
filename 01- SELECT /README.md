@@ -3,3 +3,5 @@ Neste módulo de **SELECT**, tive uma experiência bastante animadora. Ainda est
 Aprendi a selecionar as tabelas com as quais vou trabalhar, escolher as colunas e realizar filtragens mais específicas para obter exatamente as informações que preciso.
 
 O módulo também conta com exercícios práticos e um desafio, que ajudam bastante a fixar o conteúdo.
+
+OBS: AS CONSULTAS DESSE MODULO FOI TIRADAS DO BANCO DE DADOS: ContosoRetailDW.
