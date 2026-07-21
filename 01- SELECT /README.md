@@ -4,4 +4,4 @@ Aprendi a selecionar as tabelas com as quais vou trabalhar, escolher as colunas 
 
 O módulo também conta com exercícios práticos e um desafio, que ajudam bastante a fixar o conteúdo.
 
-OBS: AS CONSULTAS DESSE MODULO FOI TIRADAS DO BANCO DE DADOS: ContosoRetailDW.
+OBS: AS CONSULTAS DESSE MODULO FORAM TIRADAS DO BANCO DE DADOS: ContosoRetailDW.
