@@ -1,3 +1,5 @@
+--°Listar os produtos das marcas FABRIKAM e CONTOSO, exibindo o nome do produto, a marca, a cor e o preço unitário.
+
 USE ContosoRetailDW
 SELECT 
       ProductName,
