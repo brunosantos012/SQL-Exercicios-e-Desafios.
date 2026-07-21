@@ -1,3 +1,5 @@
+--°Listar os produtos cujo nome inicia com "CONTOSO", exibindo o nome do produto, a marca e o preço unitário.
+
 USE ContosoRetailDW
 
 SELECT 
