@@ -1,3 +1,5 @@
+--°Exibir os 15 primeiros clientes cadastrados na tabela DimCustomer, apresentando o nome, sobrenome e e-mail.
+
 USE ContosoRetailDW
 
 SELECT TOP(15)
