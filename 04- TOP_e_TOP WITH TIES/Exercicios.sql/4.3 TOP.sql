@@ -1,5 +1,6 @@
-USE ContosoRetailDW
+--°Exibir os 20 produtos com menor preço da tabela DimProduct, apresentando o nome do produto, a marca e o preço unitário.
 
+USE ContosoRetailDW
 
 SELECT TOP (20)
        ProductName,
